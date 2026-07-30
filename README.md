@@ -233,21 +233,6 @@ plt.show()
 
 
 
-- **ii)** Adjust Image Brightness.
-
-- <img width="1007" height="212" alt="image" src="https://github.com/user-attachments/assets/826e5067-c8bb-4381-9c7f-de67197d77fc" />
-
-- **iii)** Modify Image Contrast.
-
-<img width="1014" height="220" alt="image" src="https://github.com/user-attachments/assets/78dde648-6c94-440f-b446-b713a3fd8ff7" />
-
-**2.Merge the R, G, B channels and display:**
-
-<img width="568" height="313" alt="image" src="https://github.com/user-attachments/assets/5827d09a-e62b-427c-bff3-28d43f767d92" />
-
-- **iv)** Generate Third Image Using Bitwise Operations.
-
-- <img width="988" height="311" alt="image" src="https://github.com/user-attachments/assets/eb1b66c0-6986-446e-96c1-7391ccf5b424" />
 
 
 ## Result:
